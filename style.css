@@ -6,6 +6,7 @@ body{
     color:rgb(0, 183, 255);
     background-image: url(../fundos/title.jpeg);
     background-repeat:no-repeat;
+    background-position: center;
    background-attachment: scroll;
     
 }
