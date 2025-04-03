@@ -1,0 +1,13 @@
+#principal{
+    color:rgb(0, 183, 255);
+    background-color:antiquewhite;
+    backgound-image:url(../fundos/title.jpg)
+}
+
+#Titulo{
+    color:rgb(255, 30, 169);
+}
+
+.textoVerde{
+    color:green;
+}
