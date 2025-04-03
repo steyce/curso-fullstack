@@ -2,12 +2,10 @@ body{
    
 }
 
-#principal{
-    color:rgb(0, 183, 255);
-    background-image: url(../fundos/title.jpeg);
-    background-repeat:no-repeat;
-    background-position: center;
-   background-attachment: scroll;
+#paragrafos{
+   /* color:rgb(0, 183, 255);
+    /*background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit;*/
+    background: url(../fundos/title.jpeg) center/cover no-repeat fixed;
     
 }
 
@@ -17,4 +15,40 @@ body{
 
 .textoVerde{
     color:green;
+}
+
+#cm{
+    background-color:red;
+    width:1cm;
+    height:1cm;
+}
+
+#mm{
+    background-color:blue;
+    width:1mm;
+    height:1mm;
+}
+
+#in{
+        background-color:red;
+        width:1in;
+        height:1in;
+}
+
+#px{
+        background-color:blue;
+        width:10px;
+        height:10px;
+}
+
+#pt{
+    background-color:red;
+    width:10pt;
+    height:10pt;
+}
+
+#pc{
+    background-color:blue;
+    width:1pc;
+    height:1pc;
 }
