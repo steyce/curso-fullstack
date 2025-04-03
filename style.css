@@ -17,10 +17,14 @@ body{
     color:green;
 }
 
-.container{
-    font-size: 25px;
+#base{
+    height: 10px;
+    background-color: red;
 }
-
-.inside{
-    font-size:2em;
+#container{
+    height: 10px;
+    background-color: blue;
+    color:white
+    margin-top: 10px;
+    margin-left: 10px;
 }
