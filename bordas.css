@@ -1,8 +1,6 @@
 .borda {
-    border-width: 5px;
-    border-style: solid;
-    border-color: black;
-    border-radius: 5px;
+    border-width: 5px 2px 10px 15px;
+    border-color: red green blue yellow
   }
   
   .quadrado {
@@ -11,3 +9,9 @@
     background-color: yellow;
   }
   
+
+  .dotted {border-style: dotted;}
+  .dashed {border-style: dashed;}
+  .solid {border-style: solid;}
+  .none {border-style: none;}
+  .hidden {border-style: hidden;}
